@@ -1,6 +1,6 @@
-Title: Using github.com/ORG/REPO
+Title: Using github.com/jbarrettsteiner/oss-enterprise
 
-I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This issue will serve as a tracking issue for verification of this project:
+I would like to use github.com/jbarrettsteiner/oss-enterprise as a dependency in the HackAtHome project. This issue will serve as a tracking issue for verification of this project:
 
 ## Project Health Check
 
@@ -12,4 +12,8 @@ I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This
 
 ## Internal Process
 
-- [ ] Notify the xyz team that you intend to use this project
+- [ ] Notify the HackAtHome team that you intend to use this project
+- [ ] Maintain HackAtHome's quality
+- [ ] Assign a quantifiable value to the problem(s) that you are solving
+- [ ] Engage the community in working toward the best possible version of HackAtHome
+- [ ] Enable a sustainable system for HackAtHome's maintainers to review contributions
