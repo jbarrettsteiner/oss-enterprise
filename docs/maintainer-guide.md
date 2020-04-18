@@ -1,13 +1,13 @@
 # Maintainer's Guide
 
-As a maintainer of an open source project, you become the face of the company to a community of users and potential contributors. Your actions as a maintainer reflect on our organization as a whole. Before you begin this journey, consider what it means to be a maintainer:
+As a maintainer of an open source project, you become the face of the company to a community of users and potential contributors. Your actions as a maintainer reflect on our HackAtHome team as a whole. Before you begin this journey, consider what it means to be a maintainer:
 
 ## The role of the Maintainer
 
 A great maintainer:
 
 - Takes responsibility for the health of projects they release.
-   - Takes in what they have built, maintains quality to a level befitting of our organization
+   - Takes in what they have built, maintains quality to a level befitting of our HackAtHome project.
    - Responds to issues and pull requests in a timely manner.
    - If they can no longer maintain the project, they ensure someone else will.
 - Helps users understand how to use their project through documentation and reference implementations
@@ -29,17 +29,17 @@ Check out the [key questions](key-questions-for-choosing-projects.md) and open a
 
 Create clear documentation for your project to explain the following to your future users and contributors:
 
-- How are contributions reviewed and accepted (Do they need tests? An issue template?)
+- How are contributions reviewed and accepted (Do they need tests? [An issue template?])
 - What types of contributions will you accept (Do you only want help with a certain part of your code?)
 - When it’s appropriate to follow up (ex. “You can expect a response from a maintainer within 7 days. If you haven’t heard anything by then, feel free to ping the thread.”)
-- How much time will you spend on the project (ex. “We only spend about 5 hours per week on this project”)
+- How much time will you spend on the project (ex. “We only spend about 5 hours per day/week on this project”)
 
 ### Encouraging Contributions
 
 An Open Source project is stronger when it has an active and passionate community. However, it can be challenging for new contributors to get started. Here are a few tips to help you build a stronger community:
 
 - Add labels such as `good-first-PR` or `help-wanted` to Issues and Pull Requests to encourage contributions
-- Hold virtual office hours for your project to allow the community to connect and discuss challenging problems
+- Hold [virtual office hours] or [regular milestone updates] for your project to allow the community to connect and discuss challenging problems
 - Create great documentation that helps users understand how to use your project, this will make community support a useful task for new contributors  
 - Add a roadmap to your project so others can see where it is heading
 - Celebrate contributions by listing contributors in your repository or on the project website
