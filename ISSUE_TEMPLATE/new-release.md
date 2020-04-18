@@ -7,12 +7,12 @@ I'm going to share [REPO name](REPO link) with the world, but before I do, I wan
 - [ ] The repo is visible to the teams below
 - [ ] Discuss licensing or other legal concerns with `legal team @mention`
 - [ ] Evaluate security concerns with `security team @mention`
-- [ ] Request a snazzy logo  from `creative team  @mention`
+- [ ] Request a snazzy logo from `creative team  @mention`
 - [ ] Discuss promotion strategy with `public relations team @mention` and `marketing @mention`
 
 ## Preparation
 
-- [ ] It has a name that is easy to remember, gives some idea what the project does, and does [not conflict with an existing project](http://ivantomic.com/projects/ospnc/) or infringe on any [trademarks](http://www.uspto.gov).
+- [ ] It has a name that is easy to remember, gives some idea what the feature/project does, and does [not conflict with an existing project](http://ivantomic.com/projects/ospnc/) or infringe on any [trademarks](http://www.uspto.gov).
 - [ ] The repository description includes a link to the project homepage
 - [ ] It uses consistent code conventions, clear function/method/variable names, and a sensible public API.
 - [ ] The code is clearly commented, documenting intentions and edge cases.
@@ -29,7 +29,7 @@ I'm going to share [REPO name](REPO link) with the world, but before I do, I wan
 
 ## `README.md`
 
-- [ ] It starts with a one-line description that explains what the project is about, who might be interested in it, what language its written in, and how it might be different from similar projects.
+- [ ] It starts with a one-line description that explains what the project is about, who might be interested in it, what language it's written in, and how it might be different from similar projects.
 - [ ] It includes a list of features and limitations.
 - [ ] It states the goals and scope of the project to help set expectations and filter proposed changes down the line.
 - [ ] It includes the current status (e.g., proof of concept, used in production, active development, orphaned, etc.)
@@ -41,10 +41,10 @@ I'm going to share [REPO name](REPO link) with the world, but before I do, I wan
 
 ## Preparing to Maintain
 
-- [ ] At least one internal employee is committed to managing community interactions by triaging and responding to issues, giving feedback and merging pull requests
+- [ ] At least one internal team member is committed to managing community interactions by triaging and responding to issues, giving feedback and merging pull requests
 - [ ] The process for releasing a new version is clearly documented
-- [ ] At least two internal employees have access to release new versions
-- [ ] At least one internal employee is committed to pulling each release into other internal products that depend on this project
+- [ ] At least two internal team members have access to release new versions
+- [ ] At least one internal team member is committed to pulling each release into other internal products that depend on this project
 
 ## :shipit:
 
