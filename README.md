@@ -17,6 +17,7 @@ Before you open source your project, consider the effort required to maintain it
 ## FAQ
 
 #### [Who owns the code I contribute to open source projects?](docs/license-policy.md#open-source-license-policy)
+#### [What Can I Do For HackAtHome? Figure out what you can work on by answering a bunch of questions about your skill set and interests.](docs/license-policy.md#open-source-license-policy)
 
 ## License
 
